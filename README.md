@@ -1,4 +1,4 @@
-# 大家自行更换自己在https://mixhubai.com/的cookie等等的，因我是免费用户等就没有那积分，如果你有充值VIP不想在官网使用则就可以这样去使用API
+# 大家自行更换自己在 https://mixhubai.com/ 的cookie等等的，因我是免费用户等就没有那积分，如果你有充值VIP不想在官网使用则就可以这样去使用API
 
 <img width="2534" height="1304" alt="QQ_1764533715206" src="https://github.com/user-attachments/assets/41259201-df14-4db2-9d52-cef45f7bf25a" />
 
